@@ -32,7 +32,6 @@ Analysis of startup investment trends using the **Shark Tank India dataset** —
 
 - Excel
 - Python — Pandas, NumPy, Matplotlib, Seaborn
-- Tableau
 
 ## 📁 Deliverables
 
